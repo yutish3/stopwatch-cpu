@@ -1,4 +1,6 @@
 
+NOTE:- tutorial on how to run it https://youtu.be/hrkOFzFD770
+
 the projects go from most basic project to a stopwatch with memory , clock cycle and finite state machine
 
 how the different projects are connected
