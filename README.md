@@ -1,6 +1,10 @@
 
 NOTE:- tutorial on how to run it https://youtu.be/hrkOFzFD770
 
+project_name.v goes into design file of the website and test.v of that project goes into testbench
+
+here is the website in the video :- http://lab.chipverify.com/ide
+
 the projects go from most basic project to a stopwatch with memory , clock cycle and finite state machine
 
 how the different projects are connected
